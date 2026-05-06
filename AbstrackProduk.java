@@ -22,7 +22,6 @@ class Produk {
         return stok;
     }
 
-    // Abstract method (sesuai konsep PPT, harusnya abstract)
     public void tampilInfo() {
         // dikosongkan dulu (di PPT nanti dijadikan abstract)
     }
